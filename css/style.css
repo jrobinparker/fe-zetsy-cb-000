@@ -55,11 +55,11 @@ p {
 
 .linkimg {
   transition: border .25s ease;
-  border: 5px solid rgb(107,128,122);
+  border: 5px solid rgb(152,173,166); 
 }
 
 .linkimg:hover {
-  border: 5px solid rgb(152,173,166);
+  border: 5px solid rgb(107,128,122)
   cursor: pointer;
 }
 
