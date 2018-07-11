@@ -13,9 +13,8 @@ body {
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
-	margin-top: -50px;
 	background: #fff;
-	padding: 0 45px 25px;
+	padding: 5px 45px 25px;
 }
 
 /* Write all remaining styles here */
