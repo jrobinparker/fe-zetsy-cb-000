@@ -32,11 +32,11 @@ h1 {
 
 #titlelink {
   text-decoration: none;
-  color: rgb(107,128,122);
+  color: rgb(152,173,166);
 }
 
 #titlelink:hover {
-  color: rgb(152,173,166);
+  color: rgb(107,128,122);
 }
 
 #topimg {
