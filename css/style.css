@@ -58,6 +58,7 @@ p {
 }
 
 .linkimg:hover {
+  transition: border ;
   border: 5px solid rgb(152,173,166);
   cursor: pointer;
 }
