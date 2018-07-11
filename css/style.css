@@ -26,6 +26,7 @@ h1 {
   font-size: 4em;
   font-weight: normal;
   margin-bottom: 5px;
+  border-bottom: 1px solid rgb(152,173,166);;
 }
 
 #titlelink {
@@ -34,10 +35,6 @@ h1 {
 }
 
 #titlelink:hover {
-  color: rgb(152,173,166);
-}
-
-hr {
   color: rgb(152,173,166);
 }
 
